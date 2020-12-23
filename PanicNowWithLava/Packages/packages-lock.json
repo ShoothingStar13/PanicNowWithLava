@@ -24,14 +24,22 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.vscode": {
+<<<<<<< HEAD
       "version": "1.2.1",
+=======
+      "version": "1.2.2",
+>>>>>>> eRIKA
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.1.16",
+=======
+      "version": "1.1.18",
+>>>>>>> eRIKA
       "depth": 0,
       "source": "registry",
       "dependencies": {
